@@ -5,3 +5,6 @@ Then open the index.html file using live server,Before that Start the Json serve
 
 
 command json-server --watch db.json
+
+Thanks for checking in :)
+cheers,Vijay Benz <3
